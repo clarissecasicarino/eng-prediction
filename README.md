@@ -43,4 +43,4 @@ This project runs on **Google Colab** — no local setup required.
 3. Open `Carino_Capstone_MasteringDataScienceF.ipynb` in [Google Colab](https://colab.research.google.com/)
 4. Upload `student_data.db` to your Colab session (via the file panel on the left)
 5. Run all cells from top to bottom
-6. Read Carino_Model_Communication.pdf to aid your understanding about the Machine Learning model's results.
+6. Read `Carino_Model_Communication.pdf` to aid your understanding about the Machine Learning model's results.
